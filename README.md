@@ -4,7 +4,7 @@
 
 🔭 Highlights: Currently I am working as a full-time <strong>MERN Stack Developer</strong>. I am using  
 <strong>BE:</strong>Node.js, Express.js <br />
-<strong>FE:</strong>ReactJS, Redux Toolkit, Vue.js <br />
+<strong>FE:</strong>ReactJS, Redux Toolkit, Vue.js, Styled Components, StyleX <br />
 <strong>Database:</strong> MongoDB, PostgreSQL, MySQL <strong>ORM and ODM:</strong>Mongoose, Sequelize <br />
 Apart from the above skills, I am a System Design enthusiast.
 
@@ -26,7 +26,6 @@ Apart from the above skills, I am a System Design enthusiast.
    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"        alt="express" width="40" height="40"/> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 <br />
