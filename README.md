@@ -3,8 +3,10 @@
 ##  Hi, I am a Full Stack Developer based out of Nepal 👩‍💻
 
 🔭 Highlights: Currently I am working as a full-time <strong>MERN Stack Developer</strong>. I am using  
-<strong>BE:</strong>Node.js, Express.js <br />
-<strong>FE:</strong>ReactJS, Redux Toolkit, Vue.js, Styled Components, StyleX <br />
+<strong>BE:</strong>Node.js, Express.js 
+<br />
+<strong>FE:</strong>ReactJS, Redux Toolkit, Vue.js, Styled Components, StyleX 
+<br />
 <strong>Database:</strong> MongoDB, PostgreSQL, MySQL <strong>ORM and ODM:</strong>Mongoose, Sequelize <br />
 Apart from the above skills, I am a System Design enthusiast.
 
